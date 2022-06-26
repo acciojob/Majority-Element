@@ -1,6 +1,5 @@
 // arr = array of numbers
-// n = size of arr
-function major(arr,n)
+function major(arr)
 {
   //your code here
 }
